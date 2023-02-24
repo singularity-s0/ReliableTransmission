@@ -1,0 +1,15 @@
+certifi==2019.11.28
+chardet==3.0.4
+dbus-python==1.2.16
+distro-info===0.23ubuntu1
+idna==2.8
+importlib-resources==5.4.0
+PyGObject==3.36.0
+python-apt==2.0.0+ubuntu0.20.4.8
+requests==2.22.0
+requests-unixsocket==0.2.0
+six==1.14.0
+tqdm==4.64.1
+unattended-upgrades==0.1
+urllib3==1.25.8
+zipp==3.6.0
